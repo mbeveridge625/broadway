@@ -26,3 +26,10 @@ h2{
   font-size: 32px;
   font-weight: bold;
 }
+.divider{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+}
